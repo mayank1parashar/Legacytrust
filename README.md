@@ -4,6 +4,9 @@ A secure, automated digital vault designed to protect and seamlessly transition 
 
 **LegacyTrust** is a secure digital asset management and inheritance platform designed to protect your sensitive digital footprint and ensure seamless transfer to designated beneficiaries. Built with security and privacy at its core, the platform lets users archive critical data, assign trusted contacts, and establish automated release triggers.
 
+> 🔥 **Under Active Construction!**
+> **LegacyTrust** is currently being cooked up behind the scenes 👨‍💻. We are actively building, testing, and refining core features for an upcoming launch. Tap ⭐ **Star** to track our progress! 😎🤙🏻
+
 ### ✨ Key Features
 * 🛡️ **Encrypted Vault:** Store sensitive documents, credentials, and digital assets safely.
 * 👥 **Beneficiary Management:** Assign trusted delegates with custom access permissions.
